@@ -1,3 +1,18 @@
+body{
+  align-content: center;
+}
+h1{
+  text-align: center;
+  color: #00FF00;
+}
+h4{
+  text-align: center;
+  color: #2E9AFE;
+}
+
 table{
+  color: #2E64FE;
+  margin: auto;
+  text-align: center;
   border: 1px black solid;
 }
